@@ -2,6 +2,7 @@
 layout: post
 title: "Friday The 13th, Hello World."
 published: true
+color: "red"
 ---
 
 

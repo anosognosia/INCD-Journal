@@ -2,6 +2,7 @@
 published: true
 title: "....Yay!"
 layout: default
+color: "green"
 ---
 
 
